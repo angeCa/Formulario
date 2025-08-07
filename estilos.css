@@ -1,6 +1,10 @@
+body{
+    display: flex;
+}
 #contenedor{
     width: 500px;
     height: 500px;
     background-color: lightblue;
-    display: flex;
+     text-align: center;
+
 }
